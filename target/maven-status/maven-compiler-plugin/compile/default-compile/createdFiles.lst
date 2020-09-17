@@ -1,7 +1,0 @@
-com\ejemplo\tienda\repository\CityRepository.class
-com\ejemplo\tienda\service\ICityService.class
-com\ejemplo\tienda\service\CityService.class
-com\ejemplo\tienda\Application.class
-com\ejemplo\tienda\bean\City.class
-com\ejemplo\tienda\controller\MyController.class
-com\ejemplo\tienda\util\GeneratePdfReport.class
